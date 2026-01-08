@@ -1,5 +1,5 @@
 # Telescope-mount-tracking-retrofit-
-![Telescope mount testing](testing.png)
+![Telescope mount testing](testing.jpeg)
 
 This project involved designing a motorized retrofit for a telescope mount that preserves the original mount geometry while adding precise tracking capability. The gear train and motor attachment points were engineered to conform to the existing structure, allowing the system to integrate without altering the base mount.
 

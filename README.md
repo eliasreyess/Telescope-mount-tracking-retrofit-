@@ -34,7 +34,7 @@ In Figures 4 and 5, we can observe significant changes to the project. Initially
 The box also features holes to allow for heat dissipation, since the stepper drivers produce a moderate amount of heat.
 
 <p align = "center">
-  <img src = "/assets/circuits.jpg" width = "300"><br>
+  <img src = "assets/circuits.jpg" width = "300"><br>
   <im>Fig. 6 Stepper driver, RF module, buck converter and microcontroller.</im>
 </p>  
 

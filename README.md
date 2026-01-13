@@ -37,7 +37,7 @@ The box also features holes to allow for heat dissipation, since the stepper dri
   <img src = "assets/circuits.jpg" width = "300"><br>
   <im>Fig. 6 Stepper driver, RF module, buck converter and microcontroller.</im>
 </p>  
-
+### For more information and files about this project, please visit the <a href="https://github.com/eliasreyess/Telescope-mount-tracking-retrofit-">repository.</a>
 <p align="center">
   <a href="https://eliasreyess.github.io/eliasreyess.porfolio.io/">
     <img src="assets/download.svg" alt="back" width="32">

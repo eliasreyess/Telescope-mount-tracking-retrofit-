@@ -1,4 +1,4 @@
-# Telescope-mount-tracking-retrofit-
+
 
 <p align = "center">
   <img src="testing.jpeg" width = "500" alt = "img"> <br>

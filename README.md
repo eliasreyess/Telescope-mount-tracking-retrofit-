@@ -38,3 +38,10 @@ The box also features holes to allow for heat dissipation, since the stepper dri
   <im>Fig. 6 Stepper driver, RF module, buck converter and microcontroller.</im>
 </p>  
 
+<p align="center">
+  <a href="https://eliasreyess.github.io/eliasreyess.porfolio.io/">
+    <img src="assets/download.svg" alt="back" width="32">
+  </a>
+</p>
+
+

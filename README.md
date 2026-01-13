@@ -14,7 +14,7 @@ The main challenge was designing a retrofit that could attach to the existing ge
   <im>Fig. 2. more testing of initial prototype.</im>
 </p>
 <p align = "center">
-  <img src = "/assets/initialproto.jpeg" width = "200"><br>
+  <img src = "assets/initialproto.jpeg" width = "200"><br>
   <im>Fig. 2. First iteration of stepper module.</im>
 </p>  
 A major problem in this project was cable management. Since the tripod is made of several rotating parts, there was a risk of the cables becoming tangled. For this reason, I used RF transceivers so that three modules could communicate wirelessly with each other.

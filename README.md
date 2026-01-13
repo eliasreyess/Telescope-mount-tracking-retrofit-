@@ -10,7 +10,7 @@ I decided to modernize it by adding stepper motors and microcontrollers so I cou
 
 The main challenge was designing a retrofit that could attach to the existing geometry. I accomplished this by carefully measuring the areas where the stepper motors would mount, then iterating the design until I arrived at a satisfactory prototype.
 <p align = "center">
-  <img src = "/assets/tele.gif" width = "200"><br>
+  <img src = "assets/tele.gif" width = "200"><br>
   <im>Fig. 2. more testing of initial prototype.</im>
 </p>
 <p align = "center">
@@ -22,11 +22,11 @@ A major problem in this project was cable management. Since the tripod is made o
 In this configuration, the master microcontroller enables wireless control of two slave modules capable of adjusting the polar and declination angles via stepper motors. I used a joystick as well as mode switches (coarse, normal, fine) to control the direction and speed of rotation.
 
 <p align = "center">
-  <img src = "/assets/proto22.png" width = "300"><br>
+  <img src = "assets/proto22.png" width = "300"><br>
   <im>Fig. 4 Second design iteration.</im>
 </p>
 <p align = "center">
-  <img src = "/assets/proto2.png" width = "300"><br>
+  <img src = "assets/proto2.png" width = "300"><br>
   <im>Fig. 5 attachment piece, pulleys and control box.</im>
 </p>  
 In Figures 4 and 5, we can observe significant changes to the project. Initially, the telescope was driven via a worm gear; however, this was later modified to a pulley and driver system because this configuration was more compact. Additionally, a box was added to the prototype. This box serves as protection for the circuitry as well as the battery.
